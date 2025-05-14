@@ -13,6 +13,10 @@ The notebook `insdn_preparation_binary.ipynb` is designed to:
 
 This is particularly useful for researchers and practitioners building lightweight and adaptive ML models for SDN security systems.
 
+## Project Structure
+- [insdn_preparation_binary.ipynb](insdn_preparation_binary.ipynb)
+- [kendall_dataset_distributions.ipynb](kendall_dataset_distributions.ipynb) ([README.md](correlation_matrix_selection.md))
+
 ---
 
 ## 📊 Dataset Information
