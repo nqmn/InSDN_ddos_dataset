@@ -15,24 +15,6 @@ This is particularly useful for researchers and practitioners building lightweig
 
 ---
 
-## 📂 Folder Structure
-
-```
-
-project-root/
-│
-├── 1 dataset/                 # Directory containing InSDN CSV files
-│   ├── Normal\_data.csv
-│   ├── OVS.csv
-│   └── \*.csv
-│
-├── insdn\_preparation\_binary.ipynb   # Main notebook for preprocessing
-├── README.md                        # Project documentation
-
-````
-
----
-
 ## 📊 Dataset Information
 
 - Each CSV file contains **84 features** extracted from SDN traffic.
