@@ -15,7 +15,7 @@ This is particularly useful for researchers and practitioners building lightweig
 
 ## Project Structure
 - [insdn_preparation_binary.ipynb](insdn_preparation_binary.ipynb)
-- [correlation_analysis_sdn_datasets.ipynb](correlation_analysis_sdn_datasets.ipynb) ([README.md](correlation_method_selection.md))
+- [correlation_analysis_sdn_datasets.ipynb](correlation_analysis_sdn_datasets.ipynb) ([README.md](correlation_methods_selection.md))
 
 ---
 
