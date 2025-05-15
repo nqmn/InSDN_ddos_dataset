@@ -62,8 +62,8 @@ pip install pandas scikit-learn numpy
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/insdn-binary-preparation.git
-   cd insdn-binary-preparation
+   git clone https://github.com/nqmn/InSDN_ddos_dataset.git
+   cd InSDN_ddos_dataset
    ```
 
 2. Add the dataset CSV files to the `1 dataset/` folder.
